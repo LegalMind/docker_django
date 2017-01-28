@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Django Development With Docker Compose and Machine
 
 Featuring:
@@ -16,3 +17,7 @@ Blog post -> https://realpython.com/blog/python/django-development-with-docker-c
 1. Start services - `docker-compose up -d`
 1. Create migrations - `docker-compose run web /usr/local/bin/python manage.py migrate`
 1. Grab IP - `docker-machine ip dev` - and view in your browser
+=======
+# docker_django
+personal project
+>>>>>>> 3c00fcb32c00b8f820e4020e245b25971ff359c9
